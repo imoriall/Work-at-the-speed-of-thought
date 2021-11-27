@@ -1,0 +1,27 @@
+.primary,
+.secondary{
+    color: white;
+    font-family: RobotoT, sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+    margin: 0;
+}
+.primary{
+    padding: 20px 40px;
+    border: none;
+    background: #4452FE;
+}
+.secondary{
+    padding: 19px 40px;
+    background: transparent;
+}
+.primary:hover{
+    background: #1b28c7;
+}
+.secondary:hover{
+    border-color: dimgray;
+    color: dimgray;
+}
+.primary_header_first_button{
+    margin-right: 35px;
+}
